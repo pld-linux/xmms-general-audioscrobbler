@@ -1,12 +1,12 @@
 Summary:	audioscrobbler.com plugin for XMMS
 Summary(pl):	Wtyczka dla XMMS-a obs³uguj±ca serwis audioscrobbler.com
 Name:		xmms-general-audioscrobbler
-Version:	0.3.5
+Version:	0.3.6
 Release:	1
 License:	GPL
 Group:		X11/Applications/Sound
 Source0:	http://static.audioscrobbler.com/plugins/xmms-scrobbler-%{version}.tar.bz2
-# Source0-md5:	1c0e38df8573e80a881f6e4f7d2ee785
+# Source0-md5:	eb5b53815eb91f5294f76ca424369b7f
 URL:		http://www.audioscrobbler.com/
 BuildRequires:	autoconf
 BuildRequires:	automake
