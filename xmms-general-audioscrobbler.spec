@@ -48,5 +48,5 @@ rm -rf $RPM_BUILD_ROOT
 
 %files
 %defattr(644,root,root,755)
-%doc AUTHORS ChangeLog COPYING README TODO
+%doc AUTHORS ChangeLog README TODO
 %attr(755,root,root) %{xmms_general_plugindir}/*
