@@ -1,5 +1,5 @@
 Summary:	audioscrobbler.com plugin for XMMS
-Summary(pl):	Wtyczka dla XMMS-a obs³uguj±ca serwis audioscrobbler.com
+Summary(pl.UTF-8):   Wtyczka dla XMMS-a obsÅ‚ugujÄ…ca serwis audioscrobbler.com
 Name:		xmms-general-audioscrobbler
 Version:	0.3.6
 Release:	2
@@ -22,8 +22,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 This plugin adds audioscrobbler.com profile support to xmms.
 
-%description -l pl
-Ta wtyczka pozwala XMMS-owi na obs³ugê profili audioscrobbler.com.
+%description -l pl.UTF-8
+Ta wtyczka pozwala XMMS-owi na obsÅ‚ugÄ™ profili audioscrobbler.com.
 
 %prep
 %setup -q -n xmms-scrobbler-%{version}
