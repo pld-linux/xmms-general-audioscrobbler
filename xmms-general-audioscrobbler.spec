@@ -8,8 +8,7 @@ Group:		X11/Applications/Sound
 Source0:	http://static.audioscrobbler.com/plugins/xmms-scrobbler-%{version}.tar.bz2
 # Source0-md5:	eb5b53815eb91f5294f76ca424369b7f
 URL:		http://www.audioscrobbler.com/
-BuildRequires:	autoconf
-BuildRequires:	automake
+BuildRequires:	bc
 BuildRequires:	curl-devel
 BuildRequires:	glib-devel
 BuildRequires:	gtk+-devel
